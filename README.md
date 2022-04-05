@@ -1,0 +1,1 @@
+This project simulates decks of cards shuffled and dealt.
